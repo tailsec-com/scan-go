@@ -1,9 +1,10 @@
 # Tailsec Go SDK
 
-Go package for the Tailsec security scanning suite. Scan Kubernetes manifests, Terraform, Docker, CloudFormation, and more from Go.
+[![Go Reference](https://img.shields.io/badge/go-reference-00ADD8?logo=go)](https://pkg.go.dev/github.com/tailsec-com/scan-go)
+[![CI](https://img.shields.io/github/actions/workflow/status/tailsec-com/scan-go/ci.yml?branch=main)](https://github.com/tailsec-com/scan-go/actions)
+[![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-[![Go Reference](https://pkg.go.dev/badge/github.com/tailsec-com/scan-go)](https://pkg.go.dev/github.com/tailsec-com/scan-go)
-[![License: MIT](https://img.shields.io/badge/license-MIT-yellow.svg)](LICENSE)
+![logo](logo.svg)
 
 ## Features
 
